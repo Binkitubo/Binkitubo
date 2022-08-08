@@ -2,5 +2,5 @@
 
 <img src="Background.jpg" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binkitubo&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binkitubo&theme=radical&hide=shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Binkitubo&show_icons=true&theme=radical" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binkitubo&layout=compact&theme=radical" />
